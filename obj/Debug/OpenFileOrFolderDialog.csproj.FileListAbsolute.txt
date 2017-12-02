@@ -1,0 +1,16 @@
+D:\AKA\OpenFileOrFolderDialog\bin\Debug\OpenFileOrFolderDialog.exe
+D:\AKA\OpenFileOrFolderDialog\bin\Debug\OpenFileOrFolderDialog.pdb
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\ResolveAssemblyReference.cache
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.csproj.GenerateResource.Cache
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.exe
+D:\AKA\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.pdb
+D:\NewProjects\NET\OpenFileOrFolderDialog\bin\Debug\OpenFileOrFolderDialog.exe
+D:\NewProjects\NET\OpenFileOrFolderDialog\bin\Debug\OpenFileOrFolderDialog.pdb
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\ResolveAssemblyReference.cache
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.csproj.GenerateResource.Cache
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.exe
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderDialog.pdb
+D:\NewProjects\NET\OpenFileOrFolderDialog\obj\Debug\OpenFileOrFolderNamespace.Form1.resources

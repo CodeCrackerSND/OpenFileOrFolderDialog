@@ -1,0 +1,16 @@
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\ResolveAssemblyReference.cache
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\bin\Debug\WindowsFormsApplication1.exe
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\bin\Debug\WindowsFormsApplication1.pdb
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.exe
+D:\AKA\OpenFileOrFolderDialog-master\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.pdb
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\ResolveAssemblyReference.cache
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.exe
+D:\AKA\OpenFileOrFolderDialog-master\bin\Debug\WindowsFormsApplication1.exe
+D:\AKA\OpenFileOrFolderDialog-master\bin\Debug\WindowsFormsApplication1.pdb
+D:\AKA\OpenFileOrFolderDialog-master\obj\Debug\WindowsFormsApplication1.pdb
